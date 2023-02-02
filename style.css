@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 :root {
-  --body-bg: hsl(0, 0%, 3%);
+  --body-bg: hsl(0, 0%, 4%);
 }
 html {
   background:#080808;
